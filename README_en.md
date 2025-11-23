@@ -91,9 +91,9 @@ Outline editing, OpenType & Webfont generation: [FontForge](https://fontforge.or
 
 ## Legal Notices
 This project is not affiliated with the original creators of the referenced fonts (DungGeunMo, Galmuri, Yoon px Arcade, etc.).  
-This font was created in compliance with relevant Korean laws regarding copyright and design protection<sup>[[3]](https://www.law.go.kr/법령/저작권법) [[4]](https://www.law.go.kr/법령/디자인보호법)</sup>, [judicial precedents](https://www.law.go.kr/LSW/precInfoP.do?evtNo=94누5632), and the licenses of the referenced fonts.  
+This font was created in compliance with relevant Korean laws regarding [copyright](https://www.law.go.kr/법령/저작권법) and [design protection](https://www.law.go.kr/법령/디자인보호법), [judicial precedents](https://www.law.go.kr/LSW/precInfoP.do?evtNo=94누5632), and the licenses of the referenced fonts.  
 
 
 
 ## Contact
-If you encounter any issues, have requests for additional characters, or wish to provide feedback, please [onpen an Issue](https://github.com/mushsooni/mulmaru/issues).
+If you encounter any issues, have requests for additional characters, or wish to provide feedback, please [open an Issue](https://github.com/mushsooni/mulmaru/issues).
