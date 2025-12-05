@@ -10,9 +10,9 @@
 **Mulmaru** is a font project born from the need for better typography in Korean pixel game localization.
 
 While working on Korean translations for games, I often struggled to find a font that matched the aesthetic of the original titles.  
-I felt there was a gap in the available options: existing fonts were either too large (like the 16px DungGeunMo<sup>[[1]](https://cactus.tistory.com/193) [[2]](https://neodgm.dalgona.dev/)</sup>) or, if smaller, lacked the necessary weight or readability like [Galmuri](https://quiple.dev/galmuri).
+I felt there was a gap in the available options: existing fonts were either too large (like the 16px DungGeunMo<sup>[[1]](https://cactus.tistory.com/193) [[2]](https://github.com/neodgm/neodgm)</sup>) or, if smaller, lacked the necessary weight or readability like [Galmuri](https://github.com/quiple/galmuri).
 
-After discovering [Pixel Font Maker](https://exqt.me/posts/pixel-font-maker) by exqt, I decided to create the font I had always envisioned.
+After discovering [Pixel Font Maker](https://github.com/exqt/pixel-font-maker) by exqt, I decided to create the font I had always envisioned.
 ![02_intro](images/02_intro.png)
 Mulmaru matches the size of Galmuri 11 but adopts the thick vertical strokes and rounded edges characteristic of DungGeunMo, resulting in a distinct sans-serif pixel style.
 
@@ -49,7 +49,7 @@ See the full character list [here](/character-list.txt).
 Mulmaru is licensed under the [SIL Open Font License (OFL 1.1)](https://openfontlicense.org/)  
 You are free to use, modify, embed, and redistribute this font for both commercial and non-commercial purposes. However, selling the font file itself is prohibited.
 
-For details, please refer to the [original OFL 1.1 text](/LICENCE).  
+For details, please refer to the [original OFL 1.1 text](/LICENSE).  
 
 
 
@@ -72,7 +72,7 @@ Outline editing, OpenType & Webfont generation: [FontForge](https://fontforge.or
 
 #### Korean
 [DungGeunMo](https://ith.kr/about/font.html) by 김중태  
-[Galmuri](https://quiple.dev/galmuri) by Lee Minseo  
+[Galmuri](https://github.com/quiple/galmuri) by Lee Minseo  
 [Yoon px Arcade](https://yoondesign.com/36/?bmode=view&idx=157562150) by YOONDESIGN  
 
 #### Japanese & Chinese characters
@@ -81,10 +81,10 @@ Outline editing, OpenType & Webfont generation: [FontForge](https://fontforge.or
 #### English, Numbers, Symbols & Others
 [Fixedsys Excelsior](https://github.com/kika/fixedsys) by Kirill Pertsev  
 [Pixel Operator](https://www.dafont.com/pixel-operator.font) by Jayvee Enaguas (HarvettFox96)  
-[Galmuri](https://quiple.dev/galmuri) by Lee Minseo  
-[HBIOS-SYS](https://hbios.quiple.dev/) by Lee Minseo  
+[Galmuri](https://github.com/quiple/galmuri) by Lee Minseo  
+[HBIOS-SYS](https://github.com/quiple/hbios-sys) by Lee Minseo  
 [PixelMplus](https://github.com/itouhiro/PixelMplus) by itouhiro and M+ FONTS PROJECT  
-[Iyagi GGC](https://pjw48.net/iyagiggc/) by PJW48  
+[Iyagi GGC](https://github.com/JuwanPark/IyagiGGC) by PJW48  
 [Tiny5](https://github.com/Gissio/font_Tiny5) by Stefan Schmidt  
 
 
@@ -97,4 +97,5 @@ This font was created in compliance with relevant Korean laws regarding [copyrig
 
 ## Contact
 If you encounter any issues, have requests for additional characters, or wish to provide feedback, please [open an Issue](https://github.com/mushsooni/mulmaru/issues).
+
 
